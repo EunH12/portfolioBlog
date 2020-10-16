@@ -1,15 +1,15 @@
-- title: Student, Harvard CS
+- title: 비젠소프트
   from: 2016.11
   to: 2018.01
   description: 웹 퍼블리싱 업무
                 (html/html5/css3/jquery/javascript 사용)
 
-- title: Software Engineer, Google, UK
+- title: 엠포스
   from: 2018.05
   to: present
-  description: · Html5, CSS3(SCSS), Javascript
-              · Vue.js 위주의 프로젝트 작업
-              · Nuxt.js를 사용한 SSR 프로젝트
+  description: · Html5, CSS3(SCSS), Javascript\n
+               · Vue.js 위주의 프로젝트 작업<br>
+               · Nuxt.js를 사용한 SSR 프로젝트
               · three.js(webGL) 사용한 3d 화면구현
               
               주로 vue.js 프레임워크를 사용하여 프로젝트를 개발
