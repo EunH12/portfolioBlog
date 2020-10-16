@@ -9,7 +9,7 @@
   description: · Html5, CSS3(SCSS), Javascript<br>
                · Vue.js 위주의 프로젝트 작업<br>
                · Nuxt.js를 사용한 SSR 프로젝트<br>
-              · three.js(webGL) 사용한 3d 화면구현<br><br>
+               · three.js(webGL) 사용한 3d 화면구현<br><br>
               
               주로 vue.js 프레임워크를 사용하여 프로젝트를 개발<br>
               vue-cli / scss / git(gitflow) / aws(s3, cloudfront) 환경<br>
