@@ -7,10 +7,10 @@
 - title: Software Engineer, Google, UK
   from: 2018.05
   to: present
-  description: - Html5, CSS3(SCSS), Javascript
-              - Vue.js 위주의 프로젝트 작업
-              - Nuxt.js를 사용한 SSR 프로젝트
-              - three.js(webGL) 사용한 3d 화면구현
+  description: · Html5, CSS3(SCSS), Javascript
+              · Vue.js 위주의 프로젝트 작업
+              · Nuxt.js를 사용한 SSR 프로젝트
+              · three.js(webGL) 사용한 3d 화면구현
               
               주로 vue.js 프레임워크를 사용하여 프로젝트를 개발
               vue-cli / scss / git(gitflow) / aws(s3, cloudfront) 환경
