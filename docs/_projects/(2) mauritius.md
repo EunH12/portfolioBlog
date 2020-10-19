@@ -2,8 +2,7 @@
 name: 굿초보 3.0
 tools: [Vue, Nuxt.js]
 image: https://eunh12.github.io/portfolioBlog/assets/img/Mauritius_title.png
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/YoussefRaafatNasry
+description: 기존 굿초보 사이트에서 상품판매에 특화된 사이트
 ---
 
 **1. 기간**   
@@ -19,7 +18,7 @@ external_url: https://github.com/YoussefRaafatNasry
 - 기본 모바일 페이지로 구성되어 있어 pc 화면에서도 모바일 화면처럼 보이고 레이아웃만 반응형인 사이트
 - 네이버 SEO최적화를 위하여 `Nuxt.js`를 통한 SSR   
 - 컴포넌트 자체 제작으로 해당 컴포넌트 관리를 위해 `storybook` 도입  
-- 기존 굿초보 사이트에서 상품판매에 특화된 사이트, 상품 구매 후 프로세스 담당 ( 구매확인, 환불 등 )
+- 상품 구매 후 프로세스 담당 ( 구매확인, 환불 등 )
 - 어드민 프론트의 경우 디자인 없이 `antdesign` UI framework 사용
       
       
