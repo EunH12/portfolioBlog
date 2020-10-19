@@ -1,7 +1,7 @@
 ---
 name: 1-1company
 tools: [HTML, CSS, Jquery, fullPage]
-image: /assets/img/1_thum.jpg
+image: assets/img/1_thum.jpg
 description: test
 ---
 
@@ -9,4 +9,5 @@ description: test
 
 image test
 ![](https://cdn-images-1.medium.com/max/2000/1*pWGJIKats-zuumA3RQNEWQ.jpeg)
-![](/assets/img/1_cont.jpg)
+![](assets/img/1_cont.jpg)
+![](https://eunh12.github.io/portfolioBlog/assets/img/1_cont.jpg)
