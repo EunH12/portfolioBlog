@@ -1,7 +1,12 @@
 ---
-name: VizenSoft
-tools: [HTML, CSS, Jquery]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: 1-1company
+tools: [HTML, CSS, Jquery, fullPage]
+image: /assets/img/1_thum.jpg
+description: test
 ---
+
+# 남양우유 옳은
+
+image test
+![](https://cdn-images-1.medium.com/max/2000/1*pWGJIKats-zuumA3RQNEWQ.jpeg)
+![](/assets/img/1_cont.jpg)

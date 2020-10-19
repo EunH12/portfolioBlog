@@ -13,7 +13,7 @@
               
               주로 vue.js 프레임워크를 사용하여 프로젝트를 개발<br>
               vue-cli / scss / git(gitflow) / aws(s3, cloudfront) 환경<br>
-              배포의 경우 자동배포를 위해 초반에는 vue-s3-deploy 사용, 최근 프로젝트들의 경우 aws codebuild 를 사용한 최종 git push 기준으로 배포(해당 작업을 위해 커밋시 eslint 강력하게 적용)<br>
+              배포의 경우 자동배포를 위해 초반에는 vue-s3-deploy 사용, 최근 프로젝트들의 경우 aws codebuild 를 사용한 최종 git push 기준으로 배포<br>
               네이버SEO를 위해 SSR이 필요해 Nuxt.js사용<br>
               어드민 사이트에서는 디자인 없이 vuetify, antdesign과 같은 ui프레임워크 사용<br>
               three.js를 사용한 3d 화면 구현
