@@ -1,12 +1,12 @@
 ---
 name: Emforce Homepage
 tools: [Vue, three.js, HTML, SCSS]
-image: assets/img/emforce_title.jpg
+image: https://eunh12.github.io/portfolioBlog/assets/img/emforce_title.jpg
 description: emforce 홈페이지 리뉴얼
 ---
 
 ## 남양우유 옳은
-![](../assets/img/emforce_title.jpg)
+![](https://eunh12.github.io/portfolioBlog/assets/img/emforce_title.jpg)
 
 **1. 기간**   
 2020-07 ~ 2020-09   
@@ -27,8 +27,8 @@ description: emforce 홈페이지 리뉴얼
    
 
 **5. 화면 상세**   
-![](../assets/img/emforce_content.jpg)  
-![](../assets/img/emforce_content2.jpg)  
+![](https://eunh12.github.io/portfolioBlog/assets/img/emforce_content.jpg)  
+![](https://eunh12.github.io/portfolioBlog/assets/img/emforce_content2.jpg)  
    
 **6. 링크**
 https://dbvz3778s760x.cloudfront.net/
