@@ -12,7 +12,7 @@ description: eMFORCE 홈페이지 리뉴얼
 2020-07 ~ 2020-09   
   
 **2. 사용기술 및 툴**   
-`Vue`, `three.js`, `masonry`, `gsap`, `HTML`, `SCSS`
+`Vue`, `three.js`, `masonry`, `gsap`, `HTML`, `SCSS`   
   
 **3. 기여도**   
 100%   
@@ -25,7 +25,8 @@ description: eMFORCE 홈페이지 리뉴얼
 - `masonry`를 사용해 핀터레스트 화면 구현 (데이터를 불러올때 이미지 로딩이 사용자 별로 달라 해당 레이아웃이 깨지는 현상 발생하여 vue-images-loaded를 추가하여 로딩 후 작동 하도록 변경함)   
 - 포트폴리오 내부 팝업 슬라이드 ( swiper 사용하였으나 센터 정렬 등의 디자인 구현이 되지 않아 slick으로 변경. 하지만 slick의 beforeChange 등의 event가 정확하게 동작하지 않아 vue 내부의 data로 저장하고 저장된 data 기준으로 슬라이더의 인터렉션 작업.)   
    
-      
+<br>    
+<br>    
       
 
 **5. 화면 상세**   
