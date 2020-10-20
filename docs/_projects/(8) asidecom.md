@@ -1,26 +1,27 @@
 ---
-name: 스쿠바프로
+name: 선거송코리아
 tools: [HTML, CSS, Jquery]
 image: https://eunh12.github.io/portfolioBlog/assets/img/2_thum.jpg
-description: 스쿠바프로 사이트
+description: 선거송코리아 사이트
 ---
 
-## 스쿠바프로
+## 에이사이드컴 선거송코리아
 ![](https://eunh12.github.io/portfolioBlog/assets/img/2_title.jpg)
 
 **1. 기간**   
-2017-12 ~ 2017-01    
+2017-08-02 ~ 2017-08-20   
   
 **2. 사용기술 및 툴**   
-`HTML`, `CSS`, `Jquery`  
+`HTML`, `CSS`, `Jquery`, `fullpage.js`   
   
 **3. 기여도**   
 100%   
    
 **4. 기타 사항**   
 - 반응형   
-- 메인 및 상세 타이틀에서 선이 움직이는 애니메이션 추가  
-- 전반적으로 작은 인터렉션에 신경을 많이 씀 (마우스오버시 상품 애니메이션 등)
+- 원페이지 스크롤을 위해 fullpage.js 사용
+- 메인에 있는 우유 이미지가 스크롤에 따라 내려오는 인터렉션
+- 하얀색 배경이 마치 우유 처럼 흔들리는 애니메이션
    
 **5. 화면 상세**   
 ![](https://eunh12.github.io/portfolioBlog/assets/img/2_cont.jpg)  
