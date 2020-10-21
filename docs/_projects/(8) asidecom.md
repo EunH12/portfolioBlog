@@ -28,5 +28,3 @@ description: 선거송코리아 사이트
 ![](https://eunh12.github.io/portfolioBlog/assets/img/3_cont.jpg)  
 ![](https://eunh12.github.io/portfolioBlog/assets/img/3_cont2.jpg)  
   
-**6. 링크**   
-http://www.scubapro.co.kr/

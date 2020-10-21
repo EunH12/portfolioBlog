@@ -26,4 +26,4 @@ description: 스쿠바프로 사이트
 ![](https://eunh12.github.io/portfolioBlog/assets/img/2_cont.jpg)  
   
 **6. 링크**   
-http://www.scubapro.co.kr/
+[](http://www.scubapro.co.kr/)

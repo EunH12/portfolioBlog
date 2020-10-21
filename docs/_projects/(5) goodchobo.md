@@ -28,6 +28,6 @@ pg사 추가로 인한 결제수단 추가 및 전체 프로세스 내 pg사 추
       
 
 **4. 링크**  
-https://www.goodchobo.com/
+[](https://www.goodchobo.com/)
 
       
