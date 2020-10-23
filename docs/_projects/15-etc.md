@@ -19,3 +19,7 @@ description: 그외 홈페이지 퍼블리싱 작업들
 4. url : [go to Site](https://pg.payjoa.co.kr/){: target="_blank"}
 ![](https://eunh12.github.io/portfolioBlog/assets/img/etc2.png)  
 <br>
+
+
+##### 다른 사이트 확인하기  
+[go to Previous Portfolio](https://eunh12.github.io/portfolio/){: target="_blank"}
