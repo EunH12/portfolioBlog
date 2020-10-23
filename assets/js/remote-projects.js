@@ -6,7 +6,6 @@ function get_tools(repo) {
   })
     .then(response => response.json())
     .then(data => {
-      console.log(data)
       var name = repo.split("/")[1];
       var parent = document.getElementById(`${name}-tools`);
       parse_tools(data.names).forEach(t => parent.appendChild(t));

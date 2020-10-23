@@ -3,6 +3,7 @@ name: RealQV admin
 tools: [Vue, vuetify]
 image:
 description: 리얼큐브 사이트를 위한 상품 추가 및 통계 관련 어드민 사이트
+align: 3
 ---
 
 ## RealQV admin Front

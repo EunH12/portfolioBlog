@@ -3,6 +3,7 @@ name: 굿초보 3.0
 tools: [Vue, Nuxt.js]
 image: https://eunh12.github.io/portfolioBlog/assets/img/Mauritius_title.png
 description: 기존 굿초보 사이트에서 상품판매에 특화된 사이트
+align: 2
 ---
 
 ## 굿초보 3.0  
