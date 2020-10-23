@@ -1,11 +1,11 @@
 ---
-name: INTEROKJO
+name: INTEROJO
 tools: [HTML, CSS, Jquery]
 image: https://eunh12.github.io/portfolioBlog/assets/img/7_title.jpg
-description: INTEROKJO 사이트  
+description: INTEROJO 사이트  
 ---
 
-## X4 design branding  
+## INTEROJO  
 ![](https://eunh12.github.io/portfolioBlog/assets/img/7_title.jpg)  
   
 **1. 기간**   
