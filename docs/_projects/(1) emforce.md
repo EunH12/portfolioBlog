@@ -12,14 +12,15 @@ align: 1
 **1. 기간**   
 2020-07 ~ 2020-09   
   
-**2. 사용기술 및 툴**   
-`Vue`, `three.js`, `masonry`, `gsap`, `HTML`, `SCSS`   
+**2. 사용기술, 툴 및 환경**   
+- `Vue(vue-cli)`, `Vuex`, `Rest API`, `Axios`, `three.js`, `masonry`, `gsap`, `HTML`, `SCSS`  
+- `git(AWS CodeCommit)`, `AWS(S3/CloudFront)`
   
 **3. 기여도**   
 100%   
 
 **4. 성과 및 기타사항**   
-- 3d 기술 최초 구현 및 도입, 팀내 기술 공유  
+- 3d 기술 최초 구현 및 도입, 팀 내 기술 공유  
 - 메인페이지 우주화면 구현을 위하여 `three.js`를 사용하여 별 및 우주 공간 3d 형태로 구현. (배경은 큐브형태의 3d화면, 별은 2d 형태의 geometry로 서로 다른 방향으로 이동하여 조금 더 입체적인 느낌이 나도록 구현)  
 - explorer 에서 object-fit 미지원으로 영상 화면 fix, 3d(webGL) 미 지원으로 우주화면 정적인 이미지로 변경 및 안내문구 추가  
 - `gsap`내 ScrollTrigger, Stagger 등을 사용한 애니메이션 효과   

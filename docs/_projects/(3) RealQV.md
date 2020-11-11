@@ -12,8 +12,9 @@ align: 3
 2019-07 ~ 2019-08  
 2019-12   
   
-**2. 사용기술 및 툴**   
-`Vue`, `vuetify`, `HTML`, `SCSS`
+**2. 사용기술, 툴 및 환경**   
+- `Vue(vue-cli)`, `Vuex`, `Rest API`, `Axios`, `vuetify`, `HTML`, `SCSS`
+- `git(AWS CodeCommit)`, `AWS(S3/CloudFront)`  
   
 **3. 기여도**   
 70%   

@@ -12,9 +12,10 @@ align: 2
 **1. 기간**   
 2020-02 ~ 2020-05   
   
-**2. 사용기술 및 툴**   
-`Vue`, `Nuxt.js`, `HTML`, `SCSS`, `storybook`, `antdesign`  
-  
+**2. 사용기술, 툴 및 환경**   
+- `Vue(vue-cli)`, `Vuex`, `Nuxt.js`, `Rest API`, `Axios`, `HTML`, `SCSS`, `storybook`, `antdesign`, `Rest API`, `axios`   
+- `git(AWS CodeCommit)`, `AWS(S3/CloudFront)`  
+   
 **3. 기여도**   
 클라이언트 프론트(30%) / 어드민 프론트 (50%)   
    

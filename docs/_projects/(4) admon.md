@@ -11,8 +11,9 @@ align: 4
 **1. 기간**   
 2019-10 ~ 2019-11  
   
-**2. 사용기술 및 툴**   
-`Vue`, `antdesign`, `HTML`, `SCSS`
+**2. 사용기술, 툴 및 환경**   
+- `Vue(vue-cli)`, `Vuex`, `Rest API`, `Axios`, `antdesign`, `HTML`, `SCSS`
+- `git(AWS CodeCommit)`, `AWS(S3/CloudFront/Cognito)`  
   
 **3. 기여도**   
 80%   

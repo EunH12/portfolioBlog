@@ -12,7 +12,7 @@ align: 5
 2018-05 ~ 2019-06    
   
 **2. 사용기술 및 툴**   
-`HTML`, `SCSS`, `Jquery`, `handlebar.js`   
+`HTML`, `SCSS`, `Jquery`, `handlebar.js`, `ajax`   
   
 **3. 기여도 및 설명**   
 - 굿딜 퍼블리싱 (100%):  
