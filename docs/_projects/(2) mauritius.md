@@ -13,7 +13,7 @@ align: 2
 2020-02 ~ 2020-05   
   
 **2. 사용기술, 툴 및 환경**   
-- `Vue(vue-cli)`, `Vuex`, `Nuxt.js`, `Rest API`, `Axios`, `HTML`, `SCSS`, `storybook`, `antdesign`, `Rest API`, `axios`   
+- `Vue(vue-cli)`, `Vuex`, `Nuxt.js`, `Rest API`, `Axios`, `HTML`, `SCSS`, `storybook`, `antdesign`
 - `git(AWS CodeCommit)`, `AWS(S3/CloudFront)`  
    
 **3. 기여도**   
