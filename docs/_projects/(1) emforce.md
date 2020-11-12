@@ -13,7 +13,7 @@ align: 1
 2020-07 ~ 2020-09   
   
 **2. 사용기술, 툴 및 환경**   
-- `Vue(vue-cli)`, `Vuex`, `Rest API`, `Axios`, `three.js`, `masonry`, `gsap`, `HTML`, `SCSS`  
+- `Vue(vue-cli)`, `Vuex`, `Rest API`, `Axios`, `three.js`, `masonry`, `gsap`, `slick`, `HTML`, `SCSS`  
 - `git(AWS CodeCommit)`, `AWS(S3/CloudFront)`
   
 **3. 기여도**   
