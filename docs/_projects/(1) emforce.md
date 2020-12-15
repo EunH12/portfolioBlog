@@ -38,4 +38,4 @@ align: 1
 ![](https://eunh12.github.io/portfolioBlog/assets/img/emforce_content2.png)  
    
 **6. 링크**   
-[go to Site](https://dbvz3778s760x.cloudfront.net/){: target="_blank"}
+[go to Site](https:/www.emforce.co.kr){: target="_blank"}
