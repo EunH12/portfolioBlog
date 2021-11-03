@@ -5,15 +5,28 @@
 
 - title: 엠포스
   from: 2018.05
-  to: present
+  to: 2021.03
   description: · Html5, CSS3(SCSS), Javascript<br>
                · Vue.js 위주의 프로젝트 작업<br>
                · Nuxt.js를 사용한 SSR 프로젝트<br>
               · three.js(webGL) 사용한 3d 화면구현<br><br>
               
               주로 vue.js 프레임워크를 사용하여 프로젝트를 개발<br>
-              vue-cli / scss / git(gitflow) / aws(s3, cloudfront) 환경<br>
-              배포의 경우 자동배포를 위해 초반에는 vue-s3-deploy 사용, 최근 프로젝트들의 경우 aws codebuild 를 사용한 최종 git push 기준으로 배포<br>
-              네이버SEO를 위해 SSR이 필요해 Nuxt.js사용<br>
-              어드민 사이트에서는 디자인 없이 vuetify, antdesign과 같은 ui프레임워크 사용<br>
+              vue-cli / scss / git(git-flow) / aws(s3, cloudfront) 환경<br>
+              배포 :: vue-s3-deploy 또는 aws codebuild 를 사용한 최종 git push 기준으로 배포<br>
+              SEO를 위해 SSR 필요로 Nuxt.js사용<br>
+              어드민 사이트에서는 디자인 없이 vuetify, ant-design과 같은 ui프레임워크 사용<br>
               three.js를 사용한 3d 화면 구현
+
+- title: 미디언스
+  from: 2021.03
+  to: present
+  description: · Html5, CSS3(SCSS), Javascript<br>
+               · Vue.js 위주의 프로젝트 작업<br>
+               · Flutter 사용한 하이브리드 앱 구현<br><br>
+              
+              주로 vue.js 프레임워크를 사용하여 프로젝트를 개발<br>
+              vue-cli / vite / scss / git(git-flow) / docker / kubernetes 환경<br>
+              ant-design, vxe table, tailwind, 등 여러가지 ui프레임워크를 경험중<br>
+              Flutter 사용으로 웹뷰를 보여주는 앱 구현<br>
+              Flutter_firebase 를 사용한 push notification 개발
