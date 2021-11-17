@@ -14,7 +14,7 @@ description: Flutter Push Notifications
 일단, 이전에 flutter를 사용하여 만든 웹앱이 있었다. (내 p;ㅠ)
 해서 처음에는 firebase를 사용할건지 말건지에 대해서 조금 고민을 했었는데, 아무래도 조금 더 편하게 작업할 수 있는 firebase를 사용하여 푸시를 구현하기로 하였다.
 그래서 작업기준일(2021.11.01 가장 최신의 플러그인들을 저렇게 설치 해 주었다.
-
+<br>
 
 ### 2. ios Setting
 나의 경우에는 이미 firebase analysis를 연결한 상태고
@@ -29,7 +29,7 @@ Push notifications를 위한 keys를 생성하여 firebase의 해당 앱에 APN 
 
 그리고 소스에서는 
 ios/Podfile 에 platform :ios, '10.0'를 삽입해주고 cocoaPod를 새로 설치해 주었다.
-
+<br>
 
 ### 3. android Setting
 1. android/app/build.gradle 에 
@@ -44,7 +44,7 @@ ios/Podfile 에 platform :ios, '10.0'를 삽입해주고 cocoaPod를 새로 설�
 를 추가했다.
 
 3. /android/app/src/main/res/drawable/app_icon.png 푸시 받을때 표시될 앱 아이콘을 추가해줌
-
+<br>
 
 ### 4. 소스작성
 소스의 경우에는 따로 작업해서 올려놓도록 하겠다.
