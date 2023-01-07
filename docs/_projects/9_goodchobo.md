@@ -3,7 +3,7 @@ name: 굿초보
 tools: [HTML, CSS, Jquery]
 image:
 description: 범 사용자 보험 및 상품 구매 서비스, 컨텐츠 게시판 등
-align: 5
+align: 9
 ---
 
 ## 굿초보

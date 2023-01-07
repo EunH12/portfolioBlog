@@ -3,7 +3,7 @@ name: RealQV admin
 tools: [Vue, vuetify]
 image:
 description: 쿠팡/알리익스프레스 리셀링 커머셜 사이트
-align: 3
+align: 7
 ---
 
 ## RealQV admin Front

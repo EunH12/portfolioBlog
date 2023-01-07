@@ -1,0 +1,23 @@
+---
+name: Mediance 비즈니스
+tools: [Vue, Naive-ui]
+image: https://eunh12.github.io/portfolioBlog/assets/img/mediance_main.png
+description: 광고주들이 접속하여 미디언스 상품을 구매하고 해당 상품으로 미디언스 사용자에 노출되는 체험상품을 직접 등록, 캠페인을 진행하고 그 소재를 기반으로 인스타그램, 페이스북 등 소셜 미디어에 광고를 등록하는 것 까지 서비스 하는 사이트.
+align: 2
+---
+
+## Mediance Business
+
+**1. 기간**   
+2022-01 ~ 2022-10  
+  
+**2. 사용기술, 툴 및 환경**   
+- `Vue(vite)`, `Pinia`, `Rest API`, `Axios`, `vxe-table`, `Naive-ui`, `HTML`, `SCSS` , `Payple` 
+- `git(github)`, `Vercel`
+  
+**3. 기여도**   
+60%
+
+**4. 성과 및 문제해결**
+- 광고주 등록 / 미디언스 상품 리스트 / 미디언스 상품 구매 / 광고 소재 등록 / 광고 등록 개발
+- 결제 작업 시 스크립트 유동 삽입으로 인해 간헐적인 페이지 이동 실패가 발생, 해당 상황 고정 스크립트 삽입으로 해결. 결제 됐는데 결제 실패 되었다고 뜨는 이슈 발생, 임시로 카운트 값 추가하여 해결.
