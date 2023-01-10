@@ -3,6 +3,7 @@ name: Cylod
 tools: [HTML, CSS, Jquery]
 image: https://eunh12.github.io/portfolioBlog/assets/img/5_title.jpg
 description: Cylod   
+align: 20
 ---
 
 ## Cylod    

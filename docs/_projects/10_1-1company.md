@@ -3,6 +3,7 @@ name: 남양우유 옳은
 tools: [HTML, CSS, Jquery, fullPage.js]
 image: https://eunh12.github.io/portfolioBlog/assets/img/1_thum.jpg
 description: 남양유업 신제품 브로슈어 랜딩페이지 사이트
+align: 20
 ---
 
 ## 남양우유 옳은

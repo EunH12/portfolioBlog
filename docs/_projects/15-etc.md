@@ -3,6 +3,7 @@ name: ETC.
 tools: [HTML, CSS, Jquery]
 image: 
 description: 그외 홈페이지 퍼블리싱 작업들  
+align: 20
 ---
 
 #### 세무지원닷컴

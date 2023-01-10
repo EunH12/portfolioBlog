@@ -3,6 +3,7 @@ name: 한국국제교류재단
 tools: [HTML, CSS, Jquery]
 image: https://eunh12.github.io/portfolioBlog/assets/img/4_title.jpg
 description: 한국국제교류재단 매거진  
+align: 20
 ---
 
 ## 한국국제교류재단  

@@ -3,6 +3,7 @@ name: GemVax & KAEL
 tools: [HTML, CSS, Jquery]
 image: https://eunh12.github.io/portfolioBlog/assets/img/8_title.jpg
 description: GemVax & KAEL 사이트  
+align: 20
 ---
 
 ## GemVax & KAEL   

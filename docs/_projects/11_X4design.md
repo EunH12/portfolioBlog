@@ -2,7 +2,8 @@
 name: X4 design branding
 tools: [HTML, CSS, Jquery]
 image: https://eunh12.github.io/portfolioBlog/assets/img/6_title.jpg
-description: 엑스포디자인브랜딩 사이트  
+description: 엑스포디자인브랜딩 사이트 
+align: 20
 ---
 
 ## X4 design branding  

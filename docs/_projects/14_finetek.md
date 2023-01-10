@@ -3,6 +3,7 @@ name: 파인텍
 tools: [HTML, CSS, Jquery]
 image: https://eunh12.github.io/portfolioBlog/assets/img/9_title.jpg
 description: 파인텍 사이트  
+align: 20
 ---
 
 ## FINETEK  

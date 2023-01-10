@@ -3,6 +3,7 @@ name: INTEROJO
 tools: [HTML, CSS, Jquery]
 image: https://eunh12.github.io/portfolioBlog/assets/img/7_title.jpg
 description: INTEROJO 사이트  
+align: 20
 ---
 
 ## INTEROJO  

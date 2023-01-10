@@ -3,6 +3,7 @@ name: 스쿠바프로
 tools: [HTML, CSS, Jquery]
 image: https://eunh12.github.io/portfolioBlog/assets/img/2_thum.jpg
 description: 스쿠바프로 사이트
+align: 20
 ---
 
 ## 스쿠바프로

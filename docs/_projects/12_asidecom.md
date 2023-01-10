@@ -3,6 +3,7 @@ name: 선거송코리아
 tools: [HTML, CSS, Jquery]
 image: https://eunh12.github.io/portfolioBlog/assets/img/3_title.jpg
 description: 선거송코리아 사이트
+align: 20
 ---
 
 ## 에이사이드컴 선거송코리아
