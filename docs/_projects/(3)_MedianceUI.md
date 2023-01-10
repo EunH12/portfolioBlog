@@ -3,7 +3,7 @@ name: Mediance UI
 tools: [React]
 image: 
 description: 통일된 우리(mediance)만의 UI framework
-align: 3
+align: 1
 ---
 
 ## Mediance UI

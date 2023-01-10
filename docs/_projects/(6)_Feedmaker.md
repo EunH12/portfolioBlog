@@ -3,7 +3,7 @@ name: Feed Maker
 tools: [Vue]
 image: 
 description: 매체별 광고 피드 생성 솔루션
-align: 5
+align: 2
 ---
 
 ## Feed Maker

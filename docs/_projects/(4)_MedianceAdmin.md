@@ -3,7 +3,7 @@ name: Mediance 관리자
 tools: [Vue, Vxe-table]
 image: 
 description: 미디언스 사용자 및 모든 서비스의 관리자 사이트
-align: 2
+align: 1
 ---
 
 ## Mediance Administrator
