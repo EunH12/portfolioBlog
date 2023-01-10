@@ -1,7 +1,7 @@
 ---
 name: Mediance UI
 tools: [React]
-image: https://eunh12.github.io/portfolioBlog/assets/img/mediance_main.png
+image: 
 description: 통일된 우리(mediance)만의 UI framework
 align: 3
 ---
