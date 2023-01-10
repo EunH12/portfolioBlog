@@ -3,7 +3,7 @@ name: Mediance 비즈니스
 tools: [Vue, Naive-ui]
 image:
 description: 광고주들이 접속하여 미디언스 상품을 구매하고 해당 상품으로 미디언스 사용자에 노출되는 체험상품을 직접 등록, 캠페인을 진행하고 그 소재를 기반으로 인스타그램, 페이스북 등 소셜 미디어에 광고를 등록하는 것 까지 서비스 하는 사이트.
-align: 1
+align: 2
 ---
 
 ## Mediance Business

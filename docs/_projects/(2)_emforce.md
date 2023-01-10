@@ -3,7 +3,7 @@ name: eMFORCE Homepage
 tools: [Vue, three.js, HTML, SCSS]
 image: https://eunh12.github.io/portfolioBlog/assets/img/emforce_title.png
 description: 자사 홈페이지 리뉴얼 프로젝트(반응형)
-align: 2
+align: 1
 ---
 
 ## eMFORCE Homepage

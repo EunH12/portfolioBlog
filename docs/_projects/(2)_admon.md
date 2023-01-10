@@ -3,7 +3,7 @@ name: ADmon
 tools: [Vue, antdesign]
 image:
 description: 네이버 타임보드 데이터 수집 사이트
-align: 2
+align: 5
 ---
 
 ## ADmon

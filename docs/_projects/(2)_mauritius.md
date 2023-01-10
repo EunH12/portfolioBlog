@@ -3,7 +3,7 @@ name: 굿초보 3.0
 tools: [Vue, Nuxt.js]
 image: https://eunh12.github.io/portfolioBlog/assets/img/Mauritius_title.png
 description: 보험상품 추천, 판매 사이트
-align: 2
+align: 3
 ---
 
 ## 굿초보 3.0  
