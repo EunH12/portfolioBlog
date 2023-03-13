@@ -25,7 +25,7 @@ align: 3
   - SEO 최적화를 위하여 `Nuxt.js`를 통한 SSR
   - 컴포넌트 자체 제작으로 해당 컴포넌트 관리를 위해 `storybook` 도입
 * 어드민 프론트 : 회사관리, 구매관리, 쿠폰관리 담당
-  - `antdesign` UI framework 사용
+  - `antdesign` UI 사용
 
 <br>    
 <br> 

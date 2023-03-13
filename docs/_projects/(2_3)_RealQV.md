@@ -20,5 +20,5 @@ align: 4
 70%   
    
 **4. 성과 및 문제해결**  
-- `vuetify` UI framework 사용하여 구현
+- `vuetify` UI 사용하여 구현
 - 알리 익스프레스 api를 사용하여 상품페이지 작업
